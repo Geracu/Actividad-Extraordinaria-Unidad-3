@@ -1,1 +1,2 @@
-# Actividad-Extraordinaria-Unidad-3
+Dilsa Geraldine Acuna Zelaya - 23002614
+Escogi la licencia MIT porque es gratuita y me deja trabajar en colaboracion sin restricciones para poder usarla, hacer copias, modificaciones, unir, publicar y otras varias opciones.
